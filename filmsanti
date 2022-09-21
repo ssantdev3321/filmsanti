@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+            <h1 class="principal">Seja Bem vindo ao site de Filmes Gratuitos!</h1>
+            <a href="#" class="link">Conteúdo</a>&nbsp;|
+            <a href="#" class="link">Filmes</a>&nbsp;|
+            <a href="#" class="link">Series</a>&nbsp;
+        </header>
+        
+        <main>
+                <section>
+                    <hr> <h1 class="acao">CLASSE AÇÃO-DIVERSÃO</h1>
+                    <div class="filmes-1">
+                        <img src="filme.png" width="150" height="150">
+                        <p>AVATAR(NOVO)</p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐⭐</p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+                    
+                    <div class="filmes-2">
+                        <img src="thor.jfif" width="150" height="150">
+                        <p>THOR PAIXÃO <br>PELO TROVÃO </p>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+                    
+                    <div class="filmes-3">
+                        <img src="luka.jfif" width="150" height="150">
+                        <p>LUKA </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-4">
+                        <img src="cabana.jfif" width="150" height="150">
+                        <p>A CABANA </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-5">
+                        <img src="embusa.jfif" width="150" height="150">
+                        <p>EM BUSCA <br>DA VINGANÇA</p>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-6">
+                        <img src="anne.jfif" width="150" height="150">
+                        <p>ANNE </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-7">
+                        <img src="prova.jfif" width="150" height="150">
+                        <p>PROVA DE FOGO </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-8">
+                        <img src="aniquilacao.jfif" width="150" height="150">
+                        <p>ANIQUILAÇÃO </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+ <h1 class="sigma">CLASSE SIGMA</h1>
+                    <div class="filmes-9">
+                        <img src="american.jfif" width="150" height="150">
+                        <p>AMERICAN PSYCHO </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+
+                    <div class="filmes-10">
+                        <img src="fight.jfif" width="150" height="150">
+                        <p>FIGHT CLUB </p><br>
+                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                        <button><a href="#">Assistir</a><br></button>
+                    </div>
+                        <div class="filmes-11">
+                            <img src="taxi.jfif" width="150" height="150">
+                            <p>TAXI DRIVER </p><br>
+                            <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                            <button><a href="#">Assistir</a><br></button>
+                            </div>
+                            <div class="filmes-12">
+                                <img src="interestelar.jfif" width="150" height="150">
+                                <p>INTERESTELAR </p><br>
+                                <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                                <button><a href="#">Assistir</a><br></button>
+                                </div>
+                                <div class="filmes-13">
+                                    <img src="blade.jfif" width="150" height="150">
+                                    <p>BLADE RUNNER </p><br>
+                                    <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                                    <button><a href="#">Assistir</a><br></button>
+                                    </div>
+
+                                    <div class="filmes-14">
+                                        <img src="blade.jfif" width="150" height="150">
+                                        <p>BLADE RUNNER </p><br>
+                                        <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                                        <button><a href="#">Assistir</a><br></button>
+                                        </div>
+
+                                        <div class="filmes-15">
+                                            <img src="abutre.jfif" width="150" height="150">
+                                            <p>O ABUTRE </p><br>
+                                            <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                                            <button><a href="#">Assistir</a><br></button>
+                                            </div>
+
+                                            <div class="filmes-16">
+                                                <img src="donnie.jfif" width="150" height="150">
+                                                <p>DONNIE DARKO</p><br>
+                                                <p>Estrelas : ⭐⭐⭐⭐ </p><br>
+                                                <button><a href="#">Assistir</a><br></button>
+                                                </div>
+
+                    </div>
+                </section>
+        </main>
+        <hr>
+<footer>
+<b>&copy;FILMSSANT.COM 2022</b>
+</footer>
+</body>
+</html>
